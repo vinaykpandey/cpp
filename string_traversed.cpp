@@ -17,4 +17,6 @@ int main() {
         }
     }
 	cout<< " Outside the loop: "  << S << " StrLen: " << StrLen << endl;
+
+    return 0;
 }

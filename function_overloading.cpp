@@ -21,6 +21,8 @@ int main(){
 	cin >> l >> b;
 	cout << "Area of a rectangle is: " <<  area(l,b);
 	cout <<endl;
+	
+	return 0;
 }
 
 int area(int a, int b){

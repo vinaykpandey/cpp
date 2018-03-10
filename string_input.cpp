@@ -8,4 +8,6 @@ int main(){
 	//cin >> name; /* space is delimeter for cin Abc Xyz, cin store only Abc */
    	getline(cin,name); /* getline store all word (sapce sepearted also) Abc Xyz */
     cout << "My name is: " << name << endl;
+
+    return 0;
 }

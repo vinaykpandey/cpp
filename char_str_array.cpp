@@ -6,4 +6,6 @@ int main() {
   for (i = 0; i < 6; i++){
   		cout<< "loop count ==" << i << "====" << s[i]<< endl;
   }
+  
+  return 0;
 }

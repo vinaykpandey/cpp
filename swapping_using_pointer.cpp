@@ -15,4 +15,6 @@ int main(){
 	*a = *b;
 	*b = temp;
 	cout << "After swapping n1 is: " << x << ", n2 is: " << y << endl;
+
+	return 0;
 }

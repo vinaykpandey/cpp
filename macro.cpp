@@ -7,4 +7,6 @@ int main(){
 	}else{
 		cout << " macros not match:  " << NAME <<endl;
 	}
+
+	return 0;
 }
